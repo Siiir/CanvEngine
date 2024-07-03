@@ -7,9 +7,6 @@ public class Consts {
 
     /**
      * The path to the game directory.
-     *
-     * Currently, it is set to "~/Desktop/DanczakEngine".
-     * Ideally, this should point to the game folder.
      */
     public static final String GAME_DIR = "./";
 
